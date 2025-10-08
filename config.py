@@ -1,1 +1,2 @@
-TOKEN = '8368981698:AAEHfxubcFu3RYImL8ae--wf7epWU3goz0U'
+TOKEN = 'Ваш Токен'
+WEATHER_API_KEY = 'Ваш API ключ'
